@@ -3,7 +3,7 @@
   "description": "A Vue.js project",
   "private": true,
   "author": "John Leider <john@vuetifyjs.com>",
-  "version": "4.0.1",
+  "version": "4.1.3",
   "repository": {
     "type": "git",
     "url": "git+https://e.coding.net/m300785/taro/mwclg.git",
@@ -41,7 +41,7 @@
     "@vue/cli-plugin-router": "~4.5.3",
     "@vue/cli-plugin-vuex": "~4.5.3",
     "@vue/cli-service": "~4.5.3",
-    "@vuetify/api-generator": "^4.0.1",
+    "@vuetify/api-generator": "^4.1.3",
     "@vuetify/vue-cli-plugin-base": "~0.3.5",
     "cosmicjs": "^3.2.43",
     "date-fns": "^2.14.0",
