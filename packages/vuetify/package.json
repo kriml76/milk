@@ -1,5 +1,5 @@
 {
-  "name": "vuetify",
+  "name": "vuetify-milk",
   "description": "Vue Material Component Framework",
   "version": "4.1.3",
   "author": {
@@ -114,5 +114,5 @@
     "attributes": "dist/json/attributes.json"
   },
   "web-types": "dist/json/web-types.json",
-  "gitHead": "6905cd3ddd089a69f885b45ea720275ffaf44736"
+  "gitHead": "01d40395732c65e197bbae04217c62f3ee728565"
 }
